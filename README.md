@@ -8,6 +8,6 @@ This repo records the process of learning development for macOS. The sub-project
   - build the UI and setup AutoLayout by code completely
   - implement a seem-like borderless window that removes titlebar and zoom button but has an ability to become key window, window shadow, and a proper corner radius (see `WindowBorderless.Swift`)
 
-Credit:
+Credits:
 
 - [macdev](https://macdev.io)
