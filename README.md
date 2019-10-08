@@ -10,4 +10,4 @@ This repo records the process of learning development for macOS. The sub-project
 
 Credit:
 
-- [macdev](macdev.io)
+- [macdev](https://macdev.io)
